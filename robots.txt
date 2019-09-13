@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aupaecohng.lauratessin.com/sitemap.xml
